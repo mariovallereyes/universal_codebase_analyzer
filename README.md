@@ -1,6 +1,7 @@
 # 📊 Universal Codebase Analyzer
 
 A powerful, zero-dependency Python script that generates comprehensive codebase analysis files for any project. Perfect for understanding project structure and providing context to AI assistants.
+Help your AI agent understand your project's codebase without depending on their codebase analysis capability.
 
 ## 🚀 Features
 
